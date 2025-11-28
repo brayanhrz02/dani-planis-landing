@@ -20,7 +20,7 @@ export default function Merch() {
             id: 1,
             name: "Playera DS A Pleno",
             description: "Algodón transpirable de alta calidad",
-            price: 399,
+            price: 250,
             // Mapeo de imágenes por color
             images: {
                 'Negro': PlayeraNegra,
@@ -37,7 +37,7 @@ export default function Merch() {
             id: 2,
             name: "Termo de Acero Inoxidable",
             description: "750ml • Mantiene temperatura 24hrs",
-            price: 299,
+            price: 250,
             images: {
                 'Negro': TermoN,
                 'Azul': TermoA,
@@ -47,7 +47,7 @@ export default function Merch() {
             category: "Accesorios",
             sizes: ['750ml'],
             colors: ['Negro', 'Azul', 'Rosa'],
-            hasColorImages: true // No tiene cambio de imagen
+            hasColorImages: true
         }
     ];
 
@@ -57,7 +57,7 @@ export default function Merch() {
             id: 7,
             name: "Sudadera Premium DS",
             description: "Algodón con interior afelpado",
-            price: 449,
+            price: 350,
             image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=600&h=600&fit=crop",
             category: "Ropa",
             sizes: ['S', 'M', 'L', 'XL', 'XXL'],
@@ -68,7 +68,7 @@ export default function Merch() {
             id: 3,
             name: "Shorts de Entrenamiento",
             description: "Tela Dry-Fit con bolsillos laterales",
-            price: 449,
+            price: 250,
             image: "https://acide.com.mx/cdn/shop/files/ShortMexicocaballerofrente.png?v=1701984228&width=3840",
             category: "Ropa",
             sizes: ['S', 'M', 'L', 'XL'],
@@ -79,7 +79,7 @@ export default function Merch() {
             id: 4,
             name: "Gorra Snapback DS",
             description: "Gorra ajustable con logo bordado",
-            price: 249,
+            price: 150,
             image: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=600&h=600&fit=crop",
             category: "Accesorios",
             sizes: ['Única'],
@@ -90,7 +90,7 @@ export default function Merch() {
             id: 5,
             name: "Toalla de Gimnasio",
             description: "Microfibra ultra-absorbente 60x120cm",
-            price: 199,
+            price: 150,
             image: "https://hanselhome.com/64144-large_default/toalla-gimnasio-de-microfibra-ligera-compacta-absorbente-secado-rapido-ideal-para-gym-viaje-piscina-playa.jpg",
             category: "Accesorios",
             sizes: ['Estándar'],
