@@ -214,7 +214,7 @@ export default function Merch() {
                     <button
                         onClick={() => {
                             const message = `Hola! Me interesa el ${product.name} - Talla: ${selectedSize}, Color: ${selectedColor}`;
-                            window.open(`https://wa.me/522221234567?text=${encodeURIComponent(message)}`, '_blank');
+                            window.open(`https://wa.me/525648026879?text=${encodeURIComponent(message)}`, '_blank');
                         }}
                         className="w-full bg-blue-600 hover:bg-blue-700 text-white py-3 rounded-xl font-bold transition-colors flex items-center justify-center gap-2 mt-auto"
                     >
