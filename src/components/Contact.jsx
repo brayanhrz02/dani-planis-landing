@@ -61,7 +61,7 @@ export default function Contact() {
                                 </div>
                                 <ArrowRight className={`ml-auto text-${PRIMARY_COLOR}`}/>
                             </a>
-                            <a href="mailto:@danielsandovalok"
+                            <a href="https://www.instagram.com/danielsandovalok/"
                                className="flex items-center space-x-4 p-6 bg-purple-50 rounded-xl hover:bg-purple-100 transition-colors group">
                                 <div
                                     className="bg-gradient-to-r from-purple-600 to-pink-600 p-4 rounded-full hover:scale-110 transition-transform shadow-lg">
